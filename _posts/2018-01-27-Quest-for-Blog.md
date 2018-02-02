@@ -9,8 +9,8 @@ I'm delighted to share what made to start  *Blogging* to happen *Hobby*.Foremost
 
 As a naive individual on disruptive landscape of **WWW**  referring to changing technologies; one should be ready with clear path from choosing technology and whats his role in the context on blogging , and most importantly ; How fast he can acheive all of this ?. if this argumment has proper roadmap and calrity of thought. He/She can **Go Ahead!** 
 
-My situation before choosing technology was like 'MAZE SOLVING' like tracing ideas upon are these acheivable? and going to scratch again ; until a shortest path is identified  after a significant thought work , and it was a universal choice by many as i stumbled upon **Jekyll** as my *Blog* parser in-short "Builds static websites from dynamic componets like markdown, templates ,liqiudcode" and typical jekyll site looks this 
-~~~
+My situation before choosing technology was like 'MAZE SOLVING' like tracing ideas upon are these acheivable? and going to scratch again ; until a shortest path is identified  after a significant thought work , and it was a universal choice by many as i stumbled upon **Jekyll** as my *Blog* parser in-short "Builds static websites from dynamic components like markdown, templates ,liqiudcode" and typical jekyll site looks this 
+~~
 |-- _config.yml
 |-- _includes
 |-- _layouts
@@ -25,5 +25,5 @@ My situation before choosing technology was like 'MAZE SOLVING' like tracing ide
     |-- css
         |-- style.css
     |-- javascripts
-~~~
+~~
 to be continued.......,
