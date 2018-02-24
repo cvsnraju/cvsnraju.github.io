@@ -3,7 +3,7 @@ layout: page
 title: About this blog
 ---
 
-This site was created using Jekyll, and css was edited using schema.org and blog postingis powered by github jekyll-paginate plugin
+This site was created using Jekyll, and css was edited using schema.org and blog posting is powered by github jekyll-paginate plugin
 
 
 
