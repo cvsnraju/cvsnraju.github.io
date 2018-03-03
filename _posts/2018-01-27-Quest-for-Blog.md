@@ -4,6 +4,7 @@ title:  "Quest for Blogging"
 author: venkatc
 date:   2018-01-28
 tags:  [Blogging, Development, Jekyll, Hobby]
+time: 2 Min
 ---
 I'm delighted to share what made to start  *Blogging* to happen *Hobby*.Foremost, it was my choice to keep a digital part-of-me on web and beliving this would help to judge onlself in long run.
 

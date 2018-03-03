@@ -285,6 +285,7 @@ th {
   Global settings
 -----------------------------------------------------*/
 body {
+	
 	font: 110% 'Avenir next', 'Avenir Next','Avenir Next';
 	background: white;
 	direction: ltr;
@@ -344,6 +345,7 @@ img, object, embed {
 	clear: both;
 }
 
+
 /* -------------------------------------------------- 
   header styles
 -----------------------------------------------------*/
@@ -365,6 +367,7 @@ header p {
 	color: #666;
 	text-transform: uppercase;
 }
+
 /* -------------------------------------------------- 
    top navigation styles
 -----------------------------------------------------*/
@@ -635,6 +638,7 @@ aside li {
 /* -------------------------------------------------- 
    top navigation styles
 -----------------------------------------------------*/
+
 nav {
 	background: none;
 	margin-bottom: 1em;
@@ -721,28 +725,23 @@ body {
 }
 .page-header {
 	padding: 0 3%;
-	padding-top: 1em;
+	padding-top: 0.4em;
 }
 .posts, .archive {
 	float: right;
-	width: 70%;
+	width: 75%;	
 	padding-right: 2.5%;
-}
-aside{
-	padding-top: 0.8em;	
-	border-right: #0c0c0c;
-	border-right-width: 2px;
-	border-right-style: ridge;
-
 }
 aside {
 	float: left;
-	width: 30%;
+	width: 25%;
 	max-width: 320px;
-	padding-top: 0.8em;
+	padding-top: 2em;
 	padding-left: 2.5%;
+	border-right: #0c0c0c;
+	border-right-width: 1.8px;
+	border-right-style: ridge;
 	}
-
 /* -------------------------------------------------- 
    header styles
 -----------------------------------------------------*/
@@ -759,9 +758,13 @@ header p {
    top navigation styles
 -----------------------------------------------------*/
 nav {
+	position: fixed;
+	padding-bottom: 10px;
 	background: none;
 	margin-bottom: 2em;
 }
+
+
 #menu-toggle, .toggle-label {
 		display: none;
 	}
@@ -771,13 +774,14 @@ nav ul {
 	list-style: none;
 	min-height: 0;
 }
+
 nav li {
 	display: inline-block;
 }
 nav li a {
 	font: 1em 'Avenir Next', 'Avenir Next', 'Avenir Next', 'Avenir Next';
 	color: white;
-	background: #42659A;
+	background: rgb(40, 42, 44);
 	margin-right: 0.5em;
 	padding: .25em 1em;
 	display: inline-block;

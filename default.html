@@ -23,6 +23,7 @@
 <header role="banner" class="page-header" id="top">
  <h1>{{site.title}}</h1>
  <p>{{site.tagline}}</p>
+
 <nav role="navigation">
 <input type="checkbox" id="menu-toggle">
 <label for="menu-toggle" class="toggle-label"><span>menu</span></label>
@@ -34,11 +35,13 @@
   </ul>
 </nav>
 </header>
+<div class="content">
 	{{content}}
     {% if page.id %}
 	  {% include footer-post.html %}
     {% else %}
       {% include footer.html %}
     {% endif %}
+  </div>     
 </body>
 </html>
