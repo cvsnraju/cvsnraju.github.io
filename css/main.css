@@ -729,14 +729,14 @@ body {
 }
 .posts, .archive {
 	float: right;
-	width: 75%;	
+	width: 77%;	
 	padding-right: 2.5%;
 }
 aside {
 	float: left;
-	width: 25%;
+	width: 23%;
 	max-width: 320px;
-	padding-top: 2em;
+	padding-top: 0.2em;
 	padding-left: 2.5%;
 	border-right: #0c0c0c;
 	border-right-width: 1.8px;
@@ -758,7 +758,7 @@ header p {
    top navigation styles
 -----------------------------------------------------*/
 nav {
-	position: fixed;
+	position: relative;
 	padding-bottom: 10px;
 	background: none;
 	margin-bottom: 2em;
