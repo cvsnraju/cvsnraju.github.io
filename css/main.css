@@ -20,6 +20,32 @@ body, html {
   margin: 0;
   padding: 0;
 }
+feed {
+background-repeat: no-repeat;
+ color:rgb(233, 115, 19);
+ background: rgb(25, 59, 161);
+position: fixed;
+right: -20px;
+top: 280px;
+width: 74px;
+height: 25px;
+cursor: pointer;
+border-radius:8px;
+background-position: -496px -141px;
+
+	transform:translateX(-100%);
+	/* FF3.5+ */
+	-moz-transform: rotate(-90.0deg);
+	/* Opera 10.5 */
+	-o-transform: rotate(-90.0deg);
+	/* Saf3.1+, Chrome */
+	-webkit-transform: rotate(-90.0deg);
+	/* IE6,IE7 */
+	filter: progid: DXImageTransform.Microsoft.BasicImage(rotation=0.083);
+	/* IE8 */
+	-ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=0.083)";
+
+}	
 
 /* HTML5 display definitions
    ========================================================================== */
@@ -99,6 +125,7 @@ sub {
  */
 img {
   border: 0;
+  border-style:dotted;
 }
 .img-circle {
 	border-radius: 50%;
@@ -716,7 +743,7 @@ dd{
 /* -------------------------------------------------- 
    layout styles
 -----------------------------------------------------*/
-html {
+html  {
 	background: #6d6d6d;
 }
 body {
@@ -742,6 +769,7 @@ aside {
 	border-right-width: 1.8px;
 	border-right-style: ridge;
 	}
+
 /* -------------------------------------------------- 
    header styles
 -----------------------------------------------------*/
@@ -781,7 +809,7 @@ nav li {
 nav li a {
 	font: 1em 'Avenir Next', 'Avenir Next', 'Avenir Next', 'Avenir Next';
 	color: white;
-	background: rgb(40, 42, 44);
+	background: rgb(33, 100, 167);
 	margin-right: 0.5em;
 	padding: .25em 1em;
 	display: inline-block;

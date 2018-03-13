@@ -6,7 +6,7 @@ date:   2018-01-28
 tags:  [Blogging, Development, Jekyll, Hobby]
 time: 2 Min
 ---
-I'm delighted to share what made to start  *Blogging* to happen *Hobby*.Foremost, it was my choice to keep a digital part-of-me on web and beliving this would help to judge onlself in long run.
+I'm delighted to share what made to start  *Blogging* turn out *Hobby*.Foremost, it was my choice to keep a digital part-of-me on web and beliving this would help to judge onlself in long run.
 
 As a naive individual on disruptive landscape of **WWW**  referring to changing technologies; one should be ready with clear path from choosing technology and whats his role in the context on blogging, and most importantly; How fast he can acheive all of this?. if this argumment has proper roadmap and clarity of thought. He/She can **Go Ahead!** 
 
