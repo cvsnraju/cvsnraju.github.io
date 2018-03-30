@@ -21,17 +21,17 @@ body, html {
   padding: 0;
 }
 feed {
-background-repeat: no-repeat;
- color:rgb(250, 248, 246);
- background: rgb(6, 42, 151);
-position: fixed;
-right: -20px;
-top: 280px;
-width: 74px;
-height: 25px;
-cursor: pointer;
-border-radius:8px;
-background-position: -496px -141px;
+	background-repeat: no-repeat;
+	color:rgb(250, 248, 246);
+	background: rgb(6, 42, 151);
+	position: fixed;
+	right: -20px;
+	top: 280px;
+	width: 74px;
+	height: 25px;
+	cursor: pointer;
+	border-radius:8px;
+	background-position: -496px -141px;
 
 	transform:translateX(-100%);
 	/* FF3.5+ */
