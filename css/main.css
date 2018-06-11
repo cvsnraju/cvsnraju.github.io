@@ -21,7 +21,32 @@ body, html {
   padding: 0;
 }
 feed {
-	background-repeat: no-repeat;
+
+	background-color: #ffffff;
+    border: 1px solid #cccccc;
+    display: block;
+    position: fixed;
+    top: 40%;
+    padding: 40px 0px 40px 0px;
+    width: 35px;
+    z-index: 999995;
+    cursor: pointer;
+    right: -13px;
+    border-radius: 9px 0px 0px 9px;
+    -moz-border-radius: 9px 0px 0px 9px;
+    -webkit-border-radius: 9px 0px 0px 9px;
+    transition: right .5s;
+    -moz-transition: right .5s;
+    -webkit-transition: right .5s;
+    -o-transition: right .5s;
+    background-image: -webkit-gradient(linear, 0% 100%, 0% 0%, from(#ffffff), to(#eeeeee));
+    background-image: -webkit-linear-gradient(left, #ffffff, #eeeeee);
+    background-image: -moz-linear-gradient(left, #ffffff, #eeeeee);
+    background-image: -ms-linear-gradient(left, #ffffff, #eeeeee);
+    background-image: -o-linear-gradient(left, #ffffff, #eeeeee);
+    background-image: linear-gradient(left, #ffffff, #eeeeee);
+
+	/* background-repeat: no-repeat;
 	color:rgb(250, 248, 246);
 	background: rgb(6, 42, 151);
 	position: fixed;
@@ -32,18 +57,18 @@ feed {
 	cursor: pointer;
 	border-radius:8px;
 	background-position: -496px -141px;
-
-	transform:translateX(-100%);
+*/
+	/* transform:translateX(-100%);
 	/* FF3.5+ */
-	-moz-transform: rotate(-90.0deg);
+	/*-moz-transform: rotate(-90.0deg);
 	/* Opera 10.5 */
-	-o-transform: rotate(-90.0deg);
+	/*-o-transform: rotate(-90.0deg);
 	/* Saf3.1+, Chrome */
-	-webkit-transform: rotate(-90.0deg);
+	/*-webkit-transform: rotate(-90.0deg);
 	/* IE6,IE7 */
-	filter: progid: DXImageTransform.Microsoft.BasicImage(rotation=0.083);
+	/*filter: progid: DXImageTransform.Microsoft.BasicImage(rotation=0.083);
 	/* IE8 */
-	-ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=0.083)";
+	/*-ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=0.083)";  */
 
 }	
 
