@@ -12,6 +12,7 @@
 html {
   -ms-text-size-adjust: 100%; /* 2 */
   -webkit-text-size-adjust: 100%; /* 2 */
+
 }
 /**
  * Remove default margin.
@@ -20,50 +21,16 @@ body, html {
   margin: 0;
   padding: 0;
 }
-feed  {
-    background-color: #ffffff;
-    border: 1.2px solid #cccccc;
-    display: block;
-    position: relative;
-    top: 40%;
-    padding: 2px 1px 40px 2px;
-	cursor: pointer;
-    background-repeat: no-repeat;
-	color:rgb(250, 248, 246);
-	background: rgb(6, 42, 151);
-	position: fixed;
-	right: -38px;
-	top: 300px;
-	width: 76px;
-	cursor: pointer;
-	border-radius:8px;
-	background-position: -496px -160px;
 
-	transform:translateX(-100%);
-	/* FF3.5+ */
-	-moz-transform: rotate(-90.0deg);
-	/* Opera 10.5 */
-	-o-transform: rotate(-90.0deg);
-	/* Saf3.1+, Chrome */
-	-webkit-transform: rotate(-90.0deg);
-	/* IE6,IE7 */
-	filter: progid: DXImageTransform.Microsoft.BasicImage(rotation=0.083);
-	/* IE8 */
-	-ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=0.083)";
-
-	
-	 transform:translateX(-100%);
-	/* FF3.5+ */
-	-moz-transform: rotate(-90.0deg);
-	/* Opera 10.5 */
-	-o-transform: rotate(-90.0deg);
-	/* Saf3.1+, Chrome */
-	/*-webkit-transform: rotate(-90.0deg);
-	/* IE6,IE7 */
-	filter: progid: DXImageTransform.Microsoft.BasicImage(rotation=0.083);
-	/* IE8 */
-	-ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=0.083)";
-
+ .feedback{
+	 cursor:pointer;
+	 font-size: 1em;
+	 margin: 0;
+	 font-weight:bold;
+	 text-align: center;
+	 padding:5px;
+	 color: rgb(250, 248, 246);
+ }
 	/* background-repeat: no-repeat;
 	color:rgb(250, 248, 246);
 	background: rgb(6, 42, 151);
@@ -86,10 +53,7 @@ feed  {
 	/* IE6,IE7 */
 	/*filter: progid: DXImageTransform.Microsoft.BasicImage(rotation=0.083);
 	/* IE8 */
-	/*-ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=0.083)";  */
-
-}	
-
+	/*-ms-filter: "p
 /* HTML5 display definitions
    ========================================================================== */
 
