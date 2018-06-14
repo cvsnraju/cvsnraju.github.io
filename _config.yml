@@ -3,7 +3,7 @@ title: Venkat Chiluvuri
 description: "Venkata Chiluvuri blog, where he posts about new technologies and provides resources"
 baseurl: "" 
 url: "http://cvsnraju.github.io" 
-tagline: If its so simple, why haven't you done it yet? . 
+tagline: If it is so simple, why haven't you done it yet ?. 
 
 # Build settings
 markdown: kramdown
