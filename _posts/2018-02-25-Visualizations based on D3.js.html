@@ -12,7 +12,6 @@ D3 is pretty handy in handling GIS data and visualizing them, When dealing with 
 
 GeoJSON (geojson.org) is, like it sounds, a way of encoding geodata in JSON format. Each feature in a featureCollection is a JSON object that stores the border of the feature in a coordinates array as well as metadata about the feature in a properties hash object. For instance, if you wanted to draw a square that went around the island of Manhattan, it would have corners at [–74.0479, 40.6829], [–74.0479, 40.8820], [-73.9067, 40.8820], and [–73.9067, 40.6829],
 <!DOCTYPE html>
-<meta charset="utf-8">
 <style>
 
 .background {
@@ -45,9 +44,9 @@ text.big-text{
 
 </style>
 <body>
-
-<svg></svg>
-
+<iframe width="100%" heigth="100%">
+  <svg></svg>
+</iframe>
 <script src="/scripts/d3/d3.min.js"></script>
 <script>
 
@@ -63,7 +62,7 @@ var color = d3.scale.linear()
 
 var projection = d3.geo.mercator()
   .scale(900)
-  // Center the Map in Colombia
+  // Center the Map in india
   .center([80, 22])
   .translate([width / 2, height / 2]);
 
