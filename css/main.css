@@ -600,7 +600,7 @@ aside {
 aside h3 {
 	color: #4d4d4d;
 	font-size: 1.4em;
-	margin-top: 1em;
+	margin-top: 0.1em;
 	margin-bottom: .4em;
 }
 aside p {
@@ -767,12 +767,18 @@ body {
 	width: 77%;	
 	padding-right: 2.5%;
 }
+.widercontent{
+	float: rigth;
+	width:100%;
+	padding-left: 3%;
+	padding-right: 3%;
+}
 aside {
 	float: left;
 	width: 23%;
 	max-width: 320px;
 	padding-top: 0.2em;
-	padding-left: 2.5%;
+	padding-left: 2.1%;
 	border-right: #0c0c0c;
 	border-right-width: 1.8px;
 	border-right-style: ridge;
