@@ -1,6 +1,6 @@
 ---
 layout: clean
-title: Resources
+title: Hireme
 ---
 
 Below are some resources that I found extremely helpful in learning and maximizing Jekyll as a blogging platform. I highly recommend bookmarking these resources and using them frequently as you learn Jekyll.
