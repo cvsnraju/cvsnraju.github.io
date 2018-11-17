@@ -3,69 +3,113 @@ layout: clean
 title: Hireme
 ---
 
-Below are some resources that I found extremely helpful in learning and maximizing Jekyll as a blogging platform. I highly recommend bookmarking these resources and using them frequently as you learn Jekyll.
-
-### Jekyll
-
-[Official site](http://jekyllrb.com/ "Official Jekyll site")
-: Jekyll home page. Features help, documentation, and news about Jekyll.
-
-[Jekyll Bootstrap](http://jekyllbootstrap.com/ "Jekyll Bootstrap")
-: Blogging scaffolding for Jekyll sites. Integrates Bootstrap and other frameworks into default Jekyll builds. 
-
-[Jekyll Github Repo](https://github.com/jekyll/jekyll "Jekyll Github Repo")
-: Jekyll source files
-
-[Alphabetizing Jekyll Tags](http://blog.lanyonm.org/articles/2013/11/21/alphabetize-jekyll-page-tags-pure-liquid.html "Alphabetizing Jekyll Tags")
-: Great article on organizing and sorting tags for archive pages by Michael Lanyon. I used his approach for this blog.
-
-[How to Create Data-Driven Navigation](http://www.tournemille.com/blog/How-to-create-data-driven-navigation-in-Jekyll/ "http://www.tournemille.com/blog/How-to-create-data-driven-navigation-in-Jekyll/")
-: Blog post by Dale Tournemille on creating dynamic menus in Jekyll through the use of a data file.
-
-[Jekyll Dynamic Menus](http://jnvsor.github.io/jekyll-dynamic-menu/about/ "Jekyll Dynamic Menus")
-: A dynamically generated hierarchical menu in jekyll by Jonathan Vollebregt. Works without plugins so is Github safe.
-
-[Creating Dynamic Menus in Jekyll](http://thinkshout.com/blog/2014/12/creating-dynamic-menus-in-jekyll/ "Creating Dynamic Menus in Jekyll")
-: Article by ThinkShout on using URLs to generate intellegent dynamic menus.
-
-### Markdown
-
-[Daring Fireball](http://daringfireball.net/projects/markdown/syntax "markdown syntax")
-: Markdown syntax reference written by John Gruber, creator of Markdown.
-
-[Kramdown Quick Reference](http://kramdown.gettalong.org/quickref.html “kramdown quick reference") 
-: Quick reference guide for Kramdown, Jekyll’s current default Markdown rendering engine. Features code examples and description of common formatting tasks.  
+Below are some resources that I found extremely helpful in learning and maximizing Jekyll as a blogging platform. I highly recommend bookmarking the
+ing and sorting tags for archive pages by Michael Lanyon. I used his approach for this blog.
 
 
-### Liquid
-
-[Project homepage](http://liquidmarkup.org/ "Liquid project page")
-: Home page for the Liquid templating language. Contains downloads, documentations, and links to external resources.
-
-[Liquid for Designers](https://github.com/Shopify/liquid/wiki/Liquid-for-Designers "Liquid for Designers")
-: Shopify reference targeted at designers, with an emphasis on explaining language components and syntax.
-
-[Shopify Theme Guides](https://docs.shopify.com/themes/liquid-documentation/basics "Shopify Theme Guides")
-: Although largely focused on Shopify, provides a nice syntax reference for Liquid.
 
 
-### YAML
+#### Chiluvuri Venkata Satyanarayana Raju
 
-[Yaml.org](http://yaml.org/ "yaml  homepage")
-: YAML.org home page. Links to specifications, related projects, and news. Although fairly technical, specifications provide a nice syntax resource.
+Address H No: 2-46, Near Panchayat
+Yendagandi, 534 186
+Date of Birth 27 thAugust,
+Nationality Indian
 
-### Github
+```
+Home Phone 08816270877
+Mobile Phone +(91) 8500162256
+Email csatyanarayanaraju@gmail.com
+```
+## Education
 
-[Github Pages Gem](https://github.com/github/pages-gem/blob/master/lib/github-pages.rb "Github Pages Gem")
-: Part of the Gihub repository. Allows you to track the latest versions of Jekyll components within Github so that you can stay current if using Github for deployment. 
+2012-2016 Batchelor of Information Technology,Andhra University, Visakhapatnam
 
-### Deployment
+```
+CGPA-7.74 / 10
+```
+2009-2011 Board of Intermediate EducationN R I Jr College, Guntur
 
-[Git-ftp](https://github.com/git-ftp/git-ftp "Git-ftp")
-: Git integrated FTP client. Good for integrating Git source control into a FTP-based deployment.
+```
+Secured 86.4 %
+```
+2008-2009 Board of Secondary Education,T V R Model High School, Hyderabad
 
-[Git Deployment](http://nicolasgallagher.com/simple-git-deployment-strategy-for-static-sites/ "simple git deployment strategy for static sites")
-: Article by Nicolas Gallagher outlining a deployment strategy for static sites using Git. Although technical, it’s one of the clearest examples I’ve found on the subject.
+```
+Secured 86.4 %
+```
+## Experience
 
-[Github Pages](https://pages.github.com/ "Github Pages")
-: Official site and documentation. Contains a section on Jekyll integration and deployment. 
+_Total -_ 1.3 Years
+
+2016-Now Tata Consultancy Services, Hyderabad
+
+```
+Role -Analyst.
+Task -Automation of Applications and Performance Analysis.
+Tools -HP Unified Functional Testing, HP Load Runner & HP ALM and JIRA for Test Management.
+Client-UK Banking Firm
+```
+## Software Engineering Skills
+
+```
+Languages
+C, C++
+Java, Python
+```
+```
+Technical
+Trained in Automation Testing
+javaScript/CoffeScript/jQuery
+```
+```
+Miscellaneous
+Microsoft SQLServer 2000/2005 - Database Architechture and Administration, Postgres SQL
+MySQL Server
+```
+## Extra Curricular Activities and Achievements
+
+```
+Created & Hosting Personal blog on Github where i keep posting on new trends and info
+```
+```
+1 of 2
+```
+
+Link for my blog
+
+```
+Oral Presentation on Big Data understanding and future scope in SPURTHI 2k15 a National Level Symposium.
+```
+```
+Worked as Executive Body Member of CSI STUDENT CHAPTER (AP-69),Information Technology.
+```
+## Projects
+
+```
+Android Application-Voice Sms
+Platform- ANDROID STUDIO 2.
+```
+```
+Conventional way of message passing is replaced by using Google Voice API, Voice Input
+fed and Incoming Message is spoken out using TTS.
+```
+```
+Website- College Automation
+Platform- APACHE TOMCAT 7.0(Server),PostgreSQL 9.4(Database)
+```
+```
+Remote Information Gathering & Modification saving piece of Paper,Work force is our Motto.
+```
+## Personal Details
+
+```
+Languages Known
+```
+_Telugu_ - Mothertounge
+_English_ - Fluent
+_Hindi_ - Fluent
+
+```
+2 of 2
+```
