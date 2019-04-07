@@ -3,52 +3,26 @@ layout: clean
 title: Hireme
 ---
 
-Below are some resources that I found extremely helpful in learning and maximizing Jekyll as a blogging platform. I highly recommend bookmarking the
-ing and sorting tags for archive pages by Michael Lanyon. I used his approach for this blog.
 
+## Chiluvuri Venkata Satyanarayana Raju
 
-
-
-#### Chiluvuri Venkata Satyanarayana Raju
-
-Address H No: 2-46, Near Panchayat
-Yendagandi, 534 186
-Date of Birth 27 thAugust,
-Nationality Indian
 
 ```
-Home Phone 08816270877
 Mobile Phone +(91) 8500162256
 Email csatyanarayanaraju@gmail.com
 ```
-## Education
 
-2012-2016 Batchelor of Information Technology,Andhra University, Visakhapatnam
-
-```
-CGPA-7.74 / 10
-```
-2009-2011 Board of Intermediate EducationN R I Jr College, Guntur
-
-```
-Secured 86.4 %
-```
-2008-2009 Board of Secondary Education,T V R Model High School, Hyderabad
-
-```
-Secured 86.4 %
-```
 ## Experience
 
-_Total -_ 1.3 Years
+_Total -_ 2.3 Years
 
 2016-Now Tata Consultancy Services, Hyderabad
 
 ```
-Role -Analyst.
-Task -Automation of Applications and Performance Analysis.
-Tools -HP Unified Functional Testing, HP Load Runner & HP ALM and JIRA for Test Management.
-Client-UK Banking Firm
+Role  -  Analyst.
+Task  -  Automation of Applications and Performance Analysis.
+Tools -  HP Unified Functional Testing, HP Load Runner & HP ALM and JIRA for Test Management.
+Client- UK Banking Firm
 ```
 ## Software Engineering Skills
 
@@ -72,11 +46,6 @@ MySQL Server
 ```
 Created & Hosting Personal blog on Github where i keep posting on new trends and info
 ```
-```
-1 of 2
-```
-
-Link for my blog
 
 ```
 Oral Presentation on Big Data understanding and future scope in SPURTHI 2k15 a National Level Symposium.
@@ -110,6 +79,3 @@ _Telugu_ - Mothertounge
 _English_ - Fluent
 _Hindi_ - Fluent
 
-```
-2 of 2
-```
