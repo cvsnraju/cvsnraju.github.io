@@ -12,38 +12,9 @@ D3 is pretty handy in handling GIS data and visualizing them, When dealing with 
 GeoJSON (geojson.org) is, like it sounds, a way of encoding geodata in JSON format. Each feature in a featureCollection is a JSON object that stores the border of the feature in a coordinates array as well as metadata about the feature in a properties hash object. For instance, if you wanted to draw a square that went around the island of Manhattan, it would have corners at [–74.0479, 40.6829], [–74.0479, 40.8820], [-73.9067, 40.8820], and [–73.9067, 40.6829],
 <!DOCTYPE html>
 <style>
-
-.background {
-  fill: #eee;
-  pointer-events: all;
-}
-
-.map-layer {
-  fill: #fff;
-  stroke: #aaa;
-}
-
-.effect-layer{
-  pointer-events:none;
-}
-
-text{
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: 300;
-}
-
-text.big-text{
-  font-size: 30px;
-  font-weight: 400;
-}
-
-.effect-layer text, text.dummy-text{
-  font-size: 12px;
-}
-
 </style>
 <body>
-<script src="https://embed.github.com/view/geojson/cvsnraju/cvsnraju.github.io/scripts/india_states.geojson"></script>
-
-</body>
+    <script src="https://embed.github.com/view/geojson/mickeykedia/India-Maps/India_Administrative_Maps/states/india_states.geojson"></script>
+    <script src="https://gist.github.com/nkhine/3217249.js"></script>
+  </body>
 </html>
