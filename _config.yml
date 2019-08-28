@@ -1,9 +1,9 @@
 # Site settings
-title: Venkata Chiluvuri
+title: Venkatã Chiluvuri
 description: "Venkata Chiluvuri blog, where he posts about new technologies and provides resources"
 baseurl: "" 
 url: "https://cvsnraju.github.io" 
-tagline: If it is so simple, why haven't you done it yet?. 
+tagline: If it is so simple, Why haven't you done it yet?. 
 
 # Build settings
 markdown: kramdown
