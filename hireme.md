@@ -1,6 +1,6 @@
 ---
 layout: clean
-title: Hireme
+title: Résumé
 ---
 
 
