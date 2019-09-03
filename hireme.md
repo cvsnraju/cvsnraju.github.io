@@ -2,11 +2,7 @@
 layout: clean
 title: Résumé
 ---
-
-
 ## Chiluvuri Venkata Satyanarayana Raju
-
-
 ```
 Mobile Phone +(91) 8500162256
 Email csatyanarayanaraju@gmail.com
@@ -21,7 +17,7 @@ _Total -_ 2.3 Years
 ```
 Role  -  Analyst.
 Task  -  Automation of Applications and Performance Analysis.
-Tools -  HP Unified Functional Testing, HP Load Runner & HP ALM and JIRA for Test Management.
+Tools -   Unified Functional Testing (UFT), Performance Center(LoadRunner) & HP ALM and JIRA for Test Management.
 Client- UK Banking Firm
 ```
 ## Software Engineering Skills
