@@ -25,7 +25,7 @@ Similar to NumPy, Pandas is one of the most widely used python libraries in data
 
 Matplotlib is a 2d plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments. Matplotlib can be used in Python scripts, Python and IPython shell, Jupyter Notebook, web application servers and GUI toolkits.
 
-I done a small run down project using Pandas, Matplotlib.
+I have done a small run down project using Pandas, Matplotlib.
 
 Source file(CSV) is generated from [Data.gov.in](https://Data.gov.in "OGDP India") - All India level and State-wise Key Indicators of NFHS-3 and NFHS-4 Data set.
 
