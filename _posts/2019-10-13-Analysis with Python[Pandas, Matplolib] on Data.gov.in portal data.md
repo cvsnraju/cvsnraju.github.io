@@ -89,9 +89,7 @@ df_filtered = df1[df1['Femaleage6attendeschool'] > 0]
 df_filtered = df1[df1['Area'] != 'Total']
 ~~~
 
-<h4>Step 3: Generating the bar chart</h4>
-
-
+<h4>Step 3: Generating the Barchart</h4>
 ~~~
 
 # plotting the values of Female-age-6-years-and-above-attended-school Mean with reference to states

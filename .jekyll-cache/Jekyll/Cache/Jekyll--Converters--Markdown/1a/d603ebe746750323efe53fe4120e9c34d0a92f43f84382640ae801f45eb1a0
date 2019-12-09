@@ -1,4 +1,5 @@
-I"<p>Python is increasingly being used as a scientific language. Matrix and vector manipulations are extremely important for scientific computations.</p>
+I"
+<p>Python is increasingly being used as a scientific language. Matrix and vector manipulations are extremely important for scientific computations.</p>
 
 <p>In Data science <em>NumPy</em> [Numerical Python], <em>Pandas</em> and <em>Matplotlib</em> have emerged to be essential libraries for any scientific computation, including machine learning, in python due to their intuitive syntax and high-performance matrix computation capabilities.</p>
 
@@ -73,7 +74,7 @@ df_filtered = df1[df1['Femaleage6attendeschool'] &gt; 0]
 df_filtered = df1[df1['Area'] != 'Total']
 </code></pre></div></div>
 
-<h4>Step 3: Generating the bar chart</h4>
+<h4>Step 3: Generating the Barchart</h4>
 
 <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
 # plotting the values of Female-age-6-years-and-above-attended-school Mean with reference to states
@@ -88,7 +89,7 @@ df_filtered.plot()
 
 </code></pre></div></div>
 
-<h4> Final Image Generated </h4>
+<h4>Step 4: Final Image Generated </h4>
 
 <p><img title="Venkat Chiluvuri" class="img" src="/images/Datagovin.png" /></p>
 
