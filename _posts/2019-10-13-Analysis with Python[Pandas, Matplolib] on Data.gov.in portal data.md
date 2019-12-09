@@ -106,7 +106,7 @@ df_filtered.plot()
 
 ~~~
 
-<h4> Final Image Generated </h4>
+<h4>Step 4: Final Image Generated </h4>
 
 <img title="Venkat Chiluvuri" class="img" src="/images/Datagovin.png">  
 
