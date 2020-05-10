@@ -4,27 +4,13 @@ title: Résumé
 ---
 ## Chiluvuri Venkata Satyanarayana Raju
 ```
-Mobile Phone +(91) 8500162256
 Email csatyanarayanaraju@gmail.com
 ```
-
-## Experience
-
-_Total -_ 2.3 Years
-
-2016-Now Tata Consultancy Services, Hyderabad
-
-```
-Role  -  Analyst.
-Task  -  Automation of Applications and Performance Analysis.
-Tools -   Unified Functional Testing (UFT), Performance Center(LoadRunner) & HP ALM and JIRA for Test Management.
-Client- UK Banking Firm
 ```
 ## Software Engineering Skills
 
 ```
 Languages
-C, C++
 Java, Python
 ```
 ```
